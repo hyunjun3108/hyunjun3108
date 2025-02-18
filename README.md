@@ -1,7 +1,6 @@
-## 윤현준 👋
+## 윤현준 👋   [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhyunjun3108&count_bg=%233DC8B0&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 AI 개발자 & 데이터 사이언티스트 및 분석가
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhyunjun3108&count_bg=%233DC8B0&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 # Resume of [Hyunjun](https://github.com/hyunjun3108)
 
