@@ -18,6 +18,7 @@ AI 개발자 & 데이터 사이언티스트 및 분석가
 
 ### [1.3. Skills]
 
+자격증 : ADsP 데이터분석 준전문가
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
 <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=Flask&logoColor=white">
 <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=Kotlin&logoColor=white">
